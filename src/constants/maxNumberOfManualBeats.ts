@@ -1,0 +1,3 @@
+const MAXNUMBEROFBEATS:number = 35
+
+export default MAXNUMBEROFBEATS
